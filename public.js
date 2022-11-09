@@ -1,5 +1,5 @@
 if (a === 'view') {
-  function() {
+  (function hello() {
     console.log("Hello, Tealium!");
-  }();
+  })();
 }
